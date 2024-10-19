@@ -35,7 +35,7 @@ The goal of this task is to enhance the interactivity of a web page by implement
 
 - ## Video Demo
 
-[![Watch the demo]](./Dynamic-css-frontend.mp4)
+
 
 
 
