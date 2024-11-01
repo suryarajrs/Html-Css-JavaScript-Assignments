@@ -1,0 +1,33 @@
+body {
+      /*Add background image here*/
+        background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/455884/cat.jpg");
+        background-size: cover;
+        margin: 0;
+        padding: 0;
+        border-radius: 50%;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        margin: 50px auto;
+        width: 500px;
+        height: 500px;
+      }
+
+      .circle {
+        
+        width: 100px;
+        height: 100px;
+        /*Add the remaining CSS here*/
+        background-color:blue;
+        border-radius: 50%;
+        margin: 10px;
+        display: inline-block;
+        cursor: pointer;
+        transition: all 0.5s;
+      
+
+
+      }
